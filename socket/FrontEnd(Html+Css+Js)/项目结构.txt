@@ -1,13 +1,9 @@
-assets - 动画素材
-index.css - 页面样式
-index.html - 页面主入口（双击打开）
-index.js - 游戏js脚本
-
-notyf.min.css - 提示样式
-notyf.min.js - 提示js脚本
-
-qrcode.min.js - 二维码生成js插件
-
-qusetion.svg - 问号图片
-
-wsConnection.js - websocket主要js逻辑
+markdown assets - Animation materials
+index.css - Page styles
+index.html - Main page entry point (double-click to open)
+index.js - Game JavaScript script
+notyf.min.css - Notification styles
+notyf.min.js - Notification JavaScript script
+qrcode.min.js - QR code generation JavaScript plugin
+question.svg - Question mark image
+wsConnection.js - WebSocket main JavaScript logic
